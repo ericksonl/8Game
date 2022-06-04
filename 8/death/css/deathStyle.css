@@ -1,0 +1,50 @@
+@font-face {
+    font-family: WhoAsksSatan;
+    src: url("../../GlobalAssets/fonts/WhoAsksSatan.ttf");
+  }
+  
+  body {
+    color: rgb(136, 8, 8);
+  }
+
+  h1 {
+    padding-top: 10rem;
+    font-family: WhoAsksSatan, sans-serif;
+    font-size: 8rem;
+    text-align: center;
+    font-weight: normal;
+  }
+  
+  img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+  .container {
+    position: relative;
+    text-align: center;
+    color: rgb(136, 8, 8);
+  }
+
+  .centered {
+    position: absolute;
+    padding-top: 10em;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .centered > a {
+    font-family: WhoAsksSatan, sans-serif;
+    font-size: 9rem;
+    color: rgb(136, 8, 8);
+    text-decoration: none;
+  }
+  /*
+
+  background-image: url("../assets/TitleScreen2.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  */
