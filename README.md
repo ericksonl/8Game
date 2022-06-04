@@ -1,7 +1,7 @@
 # 8
 ## Welcome to 8, a side-scroller horror game created by Zach Barbour, Liam Erickson, Kayla Flint and Melanie Villarreal for EMDA 203.
 
-For the best experience, please visit https://webpages.sou.edu/~ericksonl/8/ and enter fullscreen mode
+For the best experience, please visit [my website](https://webpages.sou.edu/~ericksonl/8TitleScreen/) and enter fullscreen mode
 
 do this by pressing f11 on Windows and Linux or by pressing the green button on MacOS
 
