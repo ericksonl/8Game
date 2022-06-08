@@ -166,7 +166,7 @@ myFont.load().then(function (font) {
             wait++
             thanks()
         } else {
-            location.href = '../../8TitleScreen'
+            location.href = '../../TitleScreen'
         }
     }
 
