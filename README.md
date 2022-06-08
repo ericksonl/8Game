@@ -23,6 +23,9 @@ Jump: 'w', space or the up arrow key
 #### Interaction
 Item/Text interaction: 'e'
 
+## How to play?
+You can either visit [my website](https://webpages.sou.edu/~ericksonl/8TitleScreen/) to play this game, or clone/fork this repo on your own machine!
+
 ## Credits
 ### Art
 Lead Artist: Kayla Flint
