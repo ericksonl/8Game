@@ -1,6 +1,6 @@
 // import microwaveSprite from "../picJs/MicrowaveSprite.js"
 // import microwaveStatic from "../picJs/MicrowaveStatic.js"
-import { microwaveStatic, microwaveSprite} from "../picJs/KitchenPics.js"
+import { microwaveStatic, microwaveSprite} from "../picJs/kitchenPics.js"
 
 const canvas = document.querySelector('canvas')
 const c = canvas.getContext('2d')
