@@ -21,7 +21,7 @@ pedestal.height = 202;
 
 //walkArea
 const walkArea = new Image()
-walkArea.src = 'assets/pics/walkArea.png'
+walkArea.src = 'assets/pics/WalkArea.png'
 walkArea.width = 1720;
 walkArea.height = 80;
 
